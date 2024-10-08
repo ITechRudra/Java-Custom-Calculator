@@ -15,6 +15,3 @@ This is a simple interactive calculator built using Java that performs basic ari
 2. The user selects an arithmetic operation (`+`, `-`, `*`, `/`, `%`).
 3. The program calculates the result and displays it.
 4. The user can continue calculating or type "exit" or "off" to stop the program.
-
-## Example
-
